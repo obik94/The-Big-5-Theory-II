@@ -1,0 +1,100 @@
+body {
+	background-color: khaki;
+	font-family: Times New Roman;
+	font-size: 17px;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 35px;
+	font-weight: 450;
+}
+
+h2 {
+	text-align:left;
+	font-size: 21px;
+	font-style: italic;
+}
+
+.sources {
+	text-align: right;
+	font-size: 14px;
+	}
+	
+nav {
+	color: red;
+	text-align: center;
+	border: 2px red;
+	padding: 1px;
+	font-size: 15px;
+	margin: 0 auto;
+}
+
+a:link {
+	color: black;
+	border: 2px solid #802000;
+	padding: 12px 16px;
+	text-align: center;
+	display: inline-block;
+}
+
+a:visited {
+	color: SlateBlue;
+	border: 2px solid #802000;
+	padding: 12px 16px;
+	text-align: center;
+	display: inline-block;
+}
+
+a:hover, a:active {
+	background-color: LightGrey;
+	color: red;
+}
+
+table {margin-top: 1cm;}
+
+table, th {
+	border: 2px solid #802000;
+	text-align: center;
+	font-size: 17px;
+	}
+	
+table, td {
+	border: 2px solid #802000;
+	text-align: left;
+	font-size: 17px}
+	
+img {display: block;
+    margin-left: auto;
+    margin-right: auto; }
+	
+.kolo {margin-top: 1cm;}
+
+footer {
+	font-size:15px;
+	font-style: italic;
+}
+	
+p {
+	text-align: justify;} 
+	
+li {
+	margin-top: 2px;
+	margin-bottom: 2px;}
+
+#line{
+	margin-right: 0; 
+	width: 70%;
+}
+	
+#line2{
+	margin-right: 0; 
+	width: 40%;
+}
+	
+#cit{
+	text-align: center; 
+	font-style:italic;
+}	
